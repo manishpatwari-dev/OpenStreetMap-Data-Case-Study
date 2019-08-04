@@ -3,7 +3,7 @@ OpenStreetMap Data Case Study is an project on data munging techniques, such as 
 
 ### MAP AREA
 Kolkata, India
--	https://www.openstreetmap.org/export#map=13/22.5283/88.3601
+-	https://www.openstreetmap.org/export#map=14/22.5204/88.3521
 
 This map is of my hometown, so I’m more interested to see what database querying reveals and how clean is the dataset.
 ###	PROBLEMS ENCOUNTERED IN THE MAP
@@ -98,10 +98,12 @@ def housenumber_clean(a):
 
 #### Address in street name
 In few entries, it was observed that instead of adding address in multiple tags, it is added in street name itself. This was challenging as there was no specific format of these addresses. However, addresses did have ‘Kolkata’ in it. This was used to remove the city name and the following part of the string (containing state name and postcode). New tags of postcode were added where ever the value was available.
+
 Since there was no specific format in the initial part of the string, floor number, house number remained a part of street name in the final database.
 
 #### Inconsistent city name
 The problem was in few city tags value was in lowercase while in rest was having first letter in uppercase. This was corrected by changing first letter to uppercase for all.
+
 In one city tag, the value had “Kolkata” along with state name “West Bengal”. The sate name was removed to maintain the consistency of the tag value. In one city tag, the value had postcode “700016”. This was replaced by “Kolkata”.
 
 
