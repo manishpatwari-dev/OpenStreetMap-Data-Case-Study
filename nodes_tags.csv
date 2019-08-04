@@ -1,0 +1,1646 @@
+id,key,type,value
+240068029,source,regular,Bing
+240068034,source,regular,Bing
+245706884,source,regular,AND
+245706912,source,regular,AND
+245706980,source,regular,AND
+245706990,source,regular,AND
+245706992,source,regular,AND
+245706999,source,regular,AND
+245707067,source,regular,Bing
+245707079,source,regular,AND
+245707082,source,regular,AND
+245707092,source,regular,AND
+245707098,source,regular,AND
+245707105,source,regular,AND
+245707122,source,regular,AND
+245707180,source,regular,Bing
+245707208,source,regular,AND
+245707214,source,regular,AND
+245707326,source,regular,AND
+245707423,source,regular,AND
+245707718,source,regular,AND
+245707752,source,regular,AND
+245708184,source,regular,AND
+245708256,source,regular,AND
+245708275,source,regular,AND
+245708311,source,regular,AND
+245708370,source,regular,AND
+245708498,source,regular,AND
+245708537,source,regular,AND
+245708654,source,regular,AND
+245708674,source,regular,AND
+245708741,source,regular,AND
+245708752,source,regular,AND
+245709011,source,regular,AND
+245709034,source,regular,AND
+245709096,source,regular,AND
+245709222,source,regular,AND
+245709244,source,regular,AND
+245709305,source,regular,AND
+245709372,source,regular,AND
+245709440,source,regular,AND
+245709484,source,regular,AND
+245709509,source,regular,AND
+245709532,source,regular,AND
+245709586,source,regular,AND
+245709606,source,regular,AND
+245709625,source,regular,AND
+245709642,source,regular,AND
+245709654,source,regular,AND
+245709668,source,regular,AND
+245709690,source,regular,AND
+245709704,source,regular,AND
+245709753,source,regular,AND
+245709768,source,regular,AND
+245709826,source,regular,AND
+245709879,source,regular,AND
+245709940,source,regular,AND
+245709943,source,regular,AND
+245709963,source,regular,AND
+245709981,source,regular,AND
+245709988,source,regular,AND
+245710016,source,regular,AND
+245710029,source,regular,AND
+245710036,source,regular,AND
+245710082,source,regular,AND
+245710083,source,regular,AND
+245710162,source,regular,AND
+245710219,source,regular,AND
+245710225,source,regular,AND
+245710254,source,regular,AND
+245710276,source,regular,AND
+245710311,source,regular,AND
+245710314,source,regular,AND
+245710318,source,regular,AND
+245710330,source,regular,AND
+245710331,source,regular,AND
+245710382,source,regular,AND
+245710397,source,regular,AND
+245710411,source,regular,AND
+245710448,source,regular,AND
+245710473,source,regular,AND
+245710483,source,regular,AND
+245710540,source,regular,AND
+245710591,source,regular,AND
+245710624,source,regular,AND
+302473971,highway,regular,traffic_signals
+302477440,highway,regular,crossing
+302478196,highway,regular,traffic_signals
+302478472,highway,regular,traffic_signals
+302478667,highway,regular,traffic_signals
+310997945,source,regular,Bing
+310997946,source,regular,Bing
+419272417,bus,regular,yes
+419272417,highway,regular,bus_stop
+419272417,name,regular,South City Mall
+419272417,public_transport,regular,stop_position
+419275145,name,regular,Jodhpur Park
+419275145,place,regular,suburb
+419275337,name,regular,Jadhavpur
+419275337,place,regular,suburb
+419275394,name,regular,Dhakuria
+419275394,place,regular,suburb
+419289323,city,addr,Kolkata
+419289323,country,addr,IN
+419289323,name,regular,Ballygunge Phari
+419289323,place,regular,locality
+419289392,name,regular,Kalighat
+419289392,place,regular,suburb
+651795823,amenity,regular,police
+651795823,name,regular,Jadavpur Police Station
+651804702,bus,regular,yes
+651804702,highway,regular,bus_stop
+651804702,name,regular,Bengal Lamp
+651804702,public_transport,regular,platform
+651804962,bus,regular,yes
+651804962,highway,regular,bus_stop
+651804962,name,regular,Dhakuria
+651804962,public_transport,regular,platform
+651805056,bus,regular,yes
+651805056,highway,regular,bus_stop
+651805056,name,regular,Golpark
+651805056,public_transport,regular,platform
+651805197,bus,regular,yes
+651805197,highway,regular,bus_stop
+651805197,name,regular,Gariahat
+651805197,public_transport,regular,platform
+651805440,bus,regular,yes
+651805440,highway,regular,bus_stop
+651805440,name,regular,Ballygunj Phari
+651805440,public_transport,regular,platform
+651805730,name,regular,Ballygunge
+651805730,bn,name,বালিগঞ্জ
+651805730,railway,regular,station
+663942938,name,regular,Hastings
+663942938,place,regular,suburb
+663943188,amenity,regular,police
+663943188,name,regular,Gokhale Road Police Quarters
+663944866,public_transport,regular,stop_position
+664449059,highway,regular,traffic_signals
+664449059,traffic_signals,regular,signal
+664449987,name,regular,New Alipore
+664449987,railway,regular,station
+664449987,ref,regular,NACC
+664449987,wikidata,regular,Q7005286
+664449987,wikipedia,regular,en:New Alipore
+1074604625,name,regular,Majherat (Circular Rail)
+1074604625,public_transport,regular,stop_position
+1074604649,name,regular,Prinsep Ghat
+1074604649,railway,regular,station
+1174719902,railway,regular,crossing
+1174832977,railway,regular,level_crossing
+1182599390,source,regular,Bing
+1182599391,source,regular,Bing
+1182599396,source,regular,Bing
+1187083591,name,regular,Eden Gardens
+1187083591,railway,regular,station
+1187083591,ref,regular,EDG
+1187083591,wikidata,regular,Q5336850
+1187083591,wikipedia,regular,en:Eden Gardens railway station
+1187133856,name,regular,BBD Bagh
+1187133856,railway,regular,station
+1272967204,bus,regular,yes
+1272967204,highway,regular,bus_stop
+1272967204,name,regular,Taratalla
+1272967204,public_transport,regular,platform
+1272967205,amenity,regular,hospital
+1272967205,name,regular,Vidyasagar Hospital
+1272967207,bus,regular,yes
+1272967207,highway,regular,bus_stop
+1272967207,name,regular,Behala Tram Depot
+1272967207,public_transport,regular,platform
+1274128854,bus,regular,yes
+1274128854,highway,regular,bus_stop
+1274128854,name,regular,Ekbalpore
+1274128854,public_transport,regular,platform
+1274128857,name,regular,Park Circus
+1274128857,bn,name,পার্ক সার্কাস
+1274128857,railway,regular,station
+1274128857,ref,regular,PQS
+1274128861,bus,regular,yes
+1274128861,highway,regular,bus_stop
+1274128861,name,regular,14 No Bus Stop
+1274128861,public_transport,regular,platform
+1274128862,amenity,regular,place_of_worship
+1274128862,name,regular,Kali Temple
+1274128863,bus,regular,yes
+1274128863,highway,regular,bus_stop
+1274128863,name,regular,Mominpore
+1274128863,public_transport,regular,platform
+1274591131,exit_to,regular,Acharya Jagadish Chandra Bose Road
+1274591131,highway,regular,motorway_junction
+1274591408,highway,regular,crossing
+1275706810,name,regular,Ripon Street
+1275706810,place,regular,suburb
+1275706812,name,regular,Ho Chi Min Sarani
+1275706812,place,regular,suburb
+1277487630,barrier,regular,gate
+1277509234,name,regular,Beniapukur
+1277509234,place,regular,suburb
+1285015463,railway,regular,level_crossing
+1285015532,description,regular,"unmanned level crossing, please be careful while crossing"
+1285015532,railway,regular,level_crossing
+1319358279,railway,regular,level_crossing
+1319827054,railway,regular,level_crossing
+1327779115,highway,regular,bus_stop
+1327779115,name,regular,Haltu
+1327779115,bn,name,হালতু
+1331093694,railway,regular,crossing
+1335880588,bus,regular,yes
+1335880588,highway,regular,bus_stop
+1335880588,name,regular,Jadavpur Thana
+1335880588,public_transport,regular,stop_position
+1341614569,IR:zone,regular,ER
+1341614569,name,regular,Dhakuria
+1341614569,bn,name,ঢাকুরিয়া
+1341614569,operator,regular,IR
+1341614569,railway,regular,station
+1341614569,ref,regular,DHK
+1341617476,name,regular,Kasbah
+1341617476,place,regular,suburb
+1350661687,name,regular,Madar Tala Colony
+1350661687,place,regular,suburb
+1350661689,name,regular,Tollygunge
+1350661689,place,regular,suburb
+1350672272,name,regular,Rajendra Prasad Colony
+1350672272,place,regular,suburb
+1352769545,name,regular,Poddar Nagar
+1352769545,place,regular,suburb
+1352769550,name,regular,Katju Nagar
+1352769550,place,regular,suburb
+1362177417,name,regular,Charu Market Area
+1362177417,place,regular,suburb
+1368072653,entrance,regular,yes
+1368072704,entrance,regular,yes
+1428757093,access,regular,road
+1558124157,name,regular,Khidderpore
+1558124157,public_transport,regular,stop_position
+1558124157,tram,regular,yes
+1559365154,name,regular,Watganj
+1559365154,place,regular,suburb
+1562324608,name,regular,Mominpur
+1562324608,place,regular,suburb
+1562324630,name,regular,Kidderpore
+1562324630,place,regular,suburb
+1562324630,wikidata,regular,Q6404679
+1562324630,wikipedia,regular,en:Kidderpore
+1577069056,name,regular,Alipore
+1577069056,place,regular,suburb
+1577069061,name,regular,Bhawanipur
+1577069061,place,regular,suburb
+1577087782,name,regular,Hazra
+1577087782,place,regular,suburb
+1589754222,name,regular,Manoharpukur
+1589754222,place,regular,suburb
+1591425421,bus,regular,yes
+1591425421,highway,regular,bus_stop
+1591425421,name,regular,Prince Anwar Shah Road
+1591425421,public_transport,regular,stop_position
+1591425434,highway,regular,traffic_signals
+1591425522,highway,regular,crossing
+1591476548,highway,regular,traffic_signals
+1659493979,building,regular,yes
+1659493979,designation,regular,Temple
+1659493979,name,regular,Kali Mandir
+1659494613,amenity,regular,marketplace
+1659494613,designation,regular,Marketplace
+1659494613,name,regular,Behala Market
+1686118748,amenity,regular,school
+1686118748,name,regular,Patha Bhavan Higher Secondary School
+1686118749,amenity,regular,school
+1686118749,name,regular,Patha Bhavan High School
+1686122936,amenity,regular,cinema
+1686122936,name,regular,London paris cinema
+1711293225,amenity,regular,hospital
+1711293225,emergency,regular,yes
+1711293225,name,regular,Shambhunath Pandit Hospital
+1779696001,housename,addr,The French Loaf
+1779696001,housenumber,addr,#4A
+1779696001,postcode,addr,700027
+1779696001,street,addr,New Road
+1779696001,name,regular,The French Loaf
+1779696001,shop,regular,bakery
+1779696001,website,regular,https://thefrenchloaf.in/
+1779725249,street,addr,Alipore Road
+1779725249,name,regular,Food Bazaar
+1779725249,shop,regular,supermarket
+1783122342,amenity,regular,restaurant
+1783122342,cuisine,regular,indian
+1783122342,name,regular,Dhaba
+1783135288,amenity,regular,fuel
+1833168504,postcode,addr,700026
+1833168504,street,addr,73 & 75 Rash Behari Avenue
+1833168504,alt_name,regular,Komala Vilas
+1833168504,amenity,regular,restaurant
+1833168504,cuisine,regular,indian
+1833168504,name,regular,Banana Leaf
+1833168504,website,regular,http://www.bananaleaf.in/restaurant.html
+1833290416,housenumber,addr,8C
+1833290416,postcode,addr,700027
+1833290416,street,addr,Alipore Road
+1833290416,name,regular,Band Box
+1833290416,shop,regular,laundry
+1833352667,amenity,regular,post_office
+1833352667,name,regular,Ballygunge Post Office
+1833362469,postcode,addr,700019
+1833362469,amenity,regular,pharmacy
+1833362469,name,regular,Ballygunge Drugs Centre
+1833362471,amenity,regular,marketplace
+1833362471,name,regular,Ice Skating Ring
+1833368098,housenumber,addr,1/1
+1833368098,postcode,addr,700019
+1833368098,street,addr,Ashutosh Chowdhury Road
+1833368098,amenity,regular,bank
+1833368098,atm,regular,yes
+1833368098,branch,regular,Ballygunge
+1833368098,brand,regular,ICICI
+1833368098,wikidata,brand,Q1653258
+1833368098,name,regular,ICICI Bank
+1833368098,en,name,ICICI Bank
+1833368098,short_name,regular,ICICI
+1833368098,website,regular,https://www.icicibank.com
+1833368098,wikidata,regular,Q1653258
+1833368098,wikipedia,regular,en:ICICI Bank
+1833374663,street,addr,Gariahat Road
+1833374663,amenity,regular,pharmacy
+1833374663,name,regular,Frank Ross
+1833374663,website,regular,https://www.frankrosspharmacy.com/
+1833374666,name,regular,Tanishq
+1833374666,shop,regular,jewelry
+1833374666,website,regular,https://www.tanishq.co.in/
+1833380881,name,regular,Pantaloons
+1833380881,shop,regular,clothes
+1833380881,website,regular,www.pantaloonretail.in
+1833405150,amenity,regular,pharmacy
+1833405150,name,regular,Sri Ramakrishna Pharmacy
+1833418560,amenity,regular,post_office
+1833418560,name,regular,Mominpur Post Office
+1833423572,amenity,regular,fuel
+1833423572,brand,regular,Indian Oil
+1833423572,name,regular,Indian Oil Petrol Pump
+1833423572,operator,regular,IndianOil Corporation Ltd
+1833426020,name,regular,Sparkz
+1833426020,tourism,regular,theme_park
+1833779747,street,addr,Burdwan Road
+1833779747,amenity,regular,pharmacy
+1833788912,housenumber,addr,#4A
+1833788912,postcode,addr,700027
+1833788912,street,addr,New Road
+1833788912,name,regular,Krishna Super Bazar
+1833788912,shop,regular,supermarket
+1860605873,postcode,addr,700019
+1860605873,name,regular,Gupta Brothers
+1860605873,shop,regular,confectionery
+1860605880,amenity,regular,fuel
+1864390010,amenity,regular,fast_food
+1864390010,cuisine,regular,pizza
+1864390010,name,regular,Domino's Pizza
+1864390010,opening_hours,regular,Mo-Su 11:00-23:00
+1864390026,amenity,regular,post_office
+1864390026,name,regular,Kalighat Post Office
+1866272475,barrier,regular,gate
+1872380333,amenity,regular,atm
+1872380334,amenity,regular,atm
+1872380334,operator,regular,Dhanalakshimi Bank
+1872380335,amenity,regular,atm
+1872380336,amenity,regular,pharmacy
+1872380336,name,regular,Get Well
+1881428282,name,regular,Wills Lifestyle
+1881428282,shop,regular,clothes
+1881428450,amenity,regular,toilets
+1881428501,shop,regular,hairdresser
+1983390314,shop,regular,hairdresser
+1983412036,amenity,regular,fast_food
+1983412036,name,regular,Roll Shop
+1983446869,bus,regular,yes
+1983446869,highway,regular,bus_stop
+1983446869,name,regular,Paddapukur
+1983446869,public_transport,regular,platform
+1983446874,bus,regular,yes
+1983446874,highway,regular,bus_stop
+1983446874,name,regular,Lansdowne Market
+1983446874,public_transport,regular,platform
+1983446886,bus,regular,yes
+1983446886,highway,regular,bus_stop
+1983446886,name,regular,Deshapriya Park
+1983446886,public_transport,regular,platform
+1983446889,bus,regular,yes
+1983446889,highway,regular,bus_stop
+1983446889,name,regular,Vivekananda Park
+1983446889,public_transport,regular,platform
+1983446893,bus,regular,yes
+1983446893,highway,regular,bus_stop
+1983446893,name,regular,Rashbehari
+1983446893,public_transport,regular,platform
+1983446896,bus,regular,yes
+1983446896,highway,regular,bus_stop
+1983446896,name,regular,Shishumangal
+1983446896,public_transport,regular,platform
+1983446901,bus,regular,yes
+1983446901,highway,regular,bus_stop
+1983446901,name,regular,Hazra Law College
+1983446901,public_transport,regular,platform
+1983446903,bus,regular,yes
+1983446903,highway,regular,bus_stop
+1983446903,name,regular,Judge Court Lal Batti
+1983446903,public_transport,regular,platform
+1983469953,bus,regular,yes
+1983469953,highway,regular,bus_stop
+1983469953,name,regular,Exide
+1983469953,public_transport,regular,platform
+1983472620,bus,regular,yes
+1983472620,highway,regular,bus_stop
+1983472620,name,regular,Camac Street
+1983472620,public_transport,regular,platform
+1983499741,bus,regular,yes
+1983499741,highway,regular,bus_stop
+1983499741,name,regular,Beckbagan
+1983499741,public_transport,regular,platform
+1983542773,bus,regular,yes
+1983542773,highway,regular,bus_stop
+1983542773,name,regular,Park Circus
+1983542773,public_transport,regular,platform
+1990034250,name,regular,Lake Gardens
+1990034250,railway,regular,station
+1990034250,ref,regular,LKF
+2015874764,name,regular,Kala Bagan
+2015874764,place,regular,suburb
+2015875098,name,regular,Chetla
+2015875098,place,regular,suburb
+2017274869,shop,regular,convenience
+2017557725,amenity,regular,fast_food
+2017557725,name,regular,Kookie jar
+2017557726,amenity,regular,fast_food
+2017557726,name,regular,Cream & Fudge
+2017557727,amenity,regular,atm
+2017557727,name,regular,State Bank of India
+2017557728,shop,regular,florist
+2074166891,housenumber,addr,235/2A
+2074166891,postcode,addr,700020
+2074166891,street,addr,AJC Bose Road
+2074166891,name,regular,Skylark
+2074166891,shop,regular,hairdresser
+2075106755,bus,regular,yes
+2075106755,highway,regular,bus_stop
+2075106755,name,regular,Mint
+2075106755,public_transport,regular,platform
+2175597157,railway,regular,level_crossing
+2175597184,railway,regular,level_crossing
+2175597192,railway,regular,level_crossing
+2175597194,railway,regular,level_crossing
+2175597197,railway,regular,level_crossing
+2175597202,railway,regular,level_crossing
+2175597208,railway,regular,level_crossing
+2175597232,railway,regular,level_crossing
+2211350535,bus,regular,yes
+2211350535,highway,regular,bus_stop
+2211350535,name,regular,Tollygunj Metro
+2211350535,public_transport,regular,stop_position
+2234881727,city,addr,Kolkata
+2234881727,country,addr,IN
+2234881727,state,addr,WB
+2234881727,street,addr,Ray Street
+2234881727,name,regular,Arya International
+2234881727,tourism,regular,hotel
+2234881738,city,addr,Kolkata
+2234881738,country,addr,IN
+2234881738,housenumber,addr,10/3
+2234881738,postcode,addr,700020
+2234881738,state,addr,WB
+2234881738,street,addr,Elgin Road
+2234881738,amenity,regular,restaurant
+2234881738,level,regular,4
+2234881738,name,regular,Oh! Calcutta
+2234881738,operator,regular,Speciality Restaurants Limited
+2234881738,phone,regular,+91-033-22837161
+2234881738,website,regular,https://www.speciality.co.in/
+2234881752,city,addr,Kolkata
+2234881752,country,addr,IN
+2234881752,housenumber,addr,24
+2234881752,postcode,addr,700020
+2234881752,state,addr,WB
+2234881752,street,addr,Ray Street
+2234881752,email,regular,booking@hoteltrimoorti.com
+2234881752,internet_access,regular,wlan
+2234881752,fee,internet_access,no
+2234881752,name,regular,Trimoorti
+2234881752,phone,regular,+91 033 2486 8572
+2234881752,tourism,regular,hotel
+2234881752,website,regular,http://www.hoteltrimoorti.com
+2234881761,bus,regular,yes
+2234881761,highway,regular,bus_stop
+2234881761,public_transport,regular,platform
+2234997200,barrier,regular,gate
+2234997203,barrier,regular,gate
+2244890776,barrier,regular,gate
+2244890776,name,regular,Diamond Park
+2282742917,name,regular,Esplanade
+2282742917,network,regular,CTC
+2282742917,operator,regular,Calcutta Tramways Company
+2282742917,public_transport,regular,stop_position
+2282742917,tram,regular,yes
+2283899290,name,regular,Kalighat
+2283899290,railway,regular,tram_stop
+2295311064,housenumber,addr,8
+2295311064,postcode,addr,700020
+2295311064,street,addr,Elgin Road
+2295311064,name,regular,Crossword Bookstores Ltd
+2295311064,shop,regular,books
+2295311064,website,regular,https://www.crossword.in/
+2332295780,amenity,regular,atm
+2332295780,name,regular,Axis Bank ATM
+2338944721,colour,regular,green
+2338944721,name,regular,Rabindra Sadan
+2338944721,railway,regular,subway_entrance
+2338944722,colour,regular,green
+2338944722,name,regular,Rabindra Sadan
+2338944722,railway,regular,subway_entrance
+2430737240,name,regular,Nungi
+2430737240,railway,regular,station
+2430738645,name,regular,Akra
+2430738645,railway,regular,station
+2430738645,ref,regular,AKRA
+2430763548,name,regular,Santoshpur
+2430763548,railway,regular,station
+2430763548,ref,regular,SSP
+2435785981,name,regular,Lords
+2462144711,landuse,regular,residential
+2462144711,name,regular,City High
+2462144731,landuse,regular,residential
+2462144731,name,regular,Fort Mysore
+2471894087,amenity,regular,cinema
+2471894087,name,regular,Purna Cinema
+2471894097,amenity,regular,cinema
+2471894097,name,regular,Bharati Cinema Hall
+2471894107,amenity,regular,cinema
+2471894107,name,regular,Bijoli Cinema Hall
+2471894117,amenity,regular,cinema
+2471894117,name,regular,Indira Cinema Hall
+2471894120,amenity,regular,police
+2471894120,name,regular,Bhowanipore Police Station
+2471894122,amenity,regular,hospital
+2471894122,name,regular,Chittaranjan Shishu Hospital
+2471894125,amenity,regular,hospital
+2471894125,name,regular,Chittaranjan Seva Sadan
+2471894139,amenity,regular,school
+2471894139,name,regular,The New Horizon High School
+2471894143,amenity,regular,hospital
+2471894143,name,regular,Chittaranjan National Cancer Research centre Hospital
+2471894146,housenumber,addr,92
+2471894146,street,addr,Shyamaprasad Mukherjee Road
+2471894146,amenity,regular,college
+2471894146,name,regular,Asutosh College
+2471894146,opening_hours,regular,Mo-Fr 10:00-17:00; Sa 10:00-14:00
+2471894146,website,regular,http://www.asutoshcollege.in/
+2471894149,housenumber,addr,92
+2471894149,street,addr,Shyamaprasad Mukherjee Road
+2471894149,amenity,regular,college
+2471894149,description,regular,This a women's college
+2471894149,name,regular,Jogomaya Devi College
+2471894149,opening_hours,regular,Mo-Fr 06:30-11:00; Sa 06:30-09:00
+2471894149,website,regular,http://www.jogamayadevicollege.org/
+2471894152,housenumber,addr,92
+2471894152,street,addr,Shyamaprasad Mukherjee Road
+2471894152,amenity,regular,college
+2471894152,name,regular,Shyama Prasad College
+2471894152,opening_hours,regular,Mo-Fr 15:30-21:30; Sa 15:30-18:30
+2471894152,website,regular,http://www.syamaprasadcollege.in/contents/view/college-hours
+2471903965,amenity,regular,college
+2471903966,amenity,regular,college
+2471903967,amenity,regular,fuel
+2471903967,building,regular,yes
+2471903968,amenity,regular,hospital
+2552363035,housenumber,addr,5
+2552363035,street,addr,Portland Park
+2560435257,amenity,regular,cafe
+2560435257,name,regular,Cafe Coffee Day
+2560440346,amenity,regular,restaurant
+2560440346,cuisine,regular,indian
+2560440346,internet_access,regular,no
+2560440346,name,regular,Aminia
+2560440346,smoking,regular,no
+2560450679,amenity,regular,cafe
+2560450679,cuisine,regular,baked
+2560450679,name,regular,Just Baked
+2560450679,smoking,regular,no
+2560452047,amenity,regular,fast_food
+2560452047,cuisine,regular,indian
+2560452047,internet_access,regular,no
+2560452047,name,regular,Alibaba
+2560452048,amenity,regular,bank
+2560452048,atm,regular,yes
+2560452048,wikidata,brand,Q2003549
+2560452048,wikipedia,brand,en:Axis Bank
+2560452048,name,regular,Axis Bank
+2560452048,en,name,Axis Bank
+2560452048,website,regular,https://www.axisbank.com
+2561264392,city,addr,Kolkata
+2561264392,amenity,regular,restaurant
+2561264392,cuisine,regular,indian
+2561264392,name,regular,Zeeshan
+2561266540,amenity,regular,restaurant
+2561266540,name,regular,Krazy Kebab
+2720702706,name,regular,Park Circus
+2720702706,railway,regular,tram_stop
+2721264604,name,regular,Ballygunge
+2721264604,railway,regular,tram_stop
+2721308238,name,regular,Rash Behari Avenue
+2721308238,railway,regular,tram_stop
+2721388718,name,regular,Acharya Jagadish Chandra Bose Road / Elliot Road
+2721388718,railway,regular,tram_stop
+2722769285,name,regular,Hazra Road
+2722769285,railway,regular,tram_stop
+2722781022,name,regular, Deshapran Sashmal Road / Prince Anwar Shah Road
+2722781022,railway,regular,tram_stop
+2723095713,alt_name,regular,Kidderpur Depot
+2723095713,name,regular,Khidderpore
+2723095713,hi,name,खिदिर्पुर डीपो
+2723095713,railway,regular,tram_stop
+2746986381,amenity,regular,cafe
+2746986381,name,regular,The Chocolate Room
+2746986382,amenity,regular,cafe
+2746986382,name,regular,Cafe Coffee Day
+2747132627,amenity,regular,pharmacy
+2747132627,name,regular,Aastha
+2776950395,amenity,regular,fuel
+2776950395,brand,regular,Bharat Petroleum
+2934412982,historic,regular,monument
+2934412982,name,regular,Indira Ghandi Statue
+2934412982,en,name,Indira Gandhi
+2934412985,building,regular,yes
+2934412985,name,regular,Tata
+3051834901,amenity,regular,restaurant
+3051834901,cuisine,regular,indian
+3051834901,name,regular,Kasturi
+3088679016,city,addr,Kolkata
+3088679016,housenumber,addr,8
+3088679016,postcode,addr,700071
+3088679016,street,addr,Shakespeare Sarani
+3088679016,name,regular,Sri Aurobindo Bhavan
+3088679016,note,regular,"""Sri Aurobindo Bhavan"" was established at No. 8, Shakespeare Sarani, Calcutta (old No. 4, Theatre Road in 1872) - the place where Sri Aurobindo was born - as per ""The Sri Aurobindo Memorial Act"", enacted by West Bengal Assembly in 1972."
+3088679016,website,regular,http://www.sriaurobindobhavankolkata.org/home.htm
+3250354078,housenumber,addr,37
+3250354078,postcode,addr,700029
+3250354078,street,addr,Hazra Road
+3250354078,email,regular,hotelswagath@swagathgroups.com
+3250354078,fax,regular,+91 33 2475 8324
+3250354078,name,regular,Hotel Swagath
+3250354078,operator,regular,Swagath Groups
+3250354078,phone,regular,+91 33 2476 6161;+91 33 2474 8566
+3250354078,tourism,regular,hotel
+3250354078,website,regular,https://www.swagathgroups.com/
+3250354362,housenumber,addr,41
+3250354362,postcode,addr,700019
+3250354362,street,addr,Hazra Road
+3250354362,name,regular,Quadra Medical Services Pvt Ltd
+3250373761,housenumber,addr,53
+3250373761,postcode,addr,700019
+3250373761,street,addr,Hazra Road
+3250373761,amenity,regular,clinic
+3250373761,name,regular,Quadra Medical Services Pvt Ltd
+3250403968,housenumber,addr,54/1 A
+3250403968,postcode,addr,700019
+3250403968,street,addr,Hazra Road
+3250405064,housenumber,addr,53/1/1
+3250405064,postcode,addr,700019
+3250405064,street,addr,Hazra Road
+3250405762,housenumber,addr,52/2B
+3250405762,postcode,addr,700019
+3250405762,street,addr,Hazra Road
+3250419461,housenumber,addr,53/1/2
+3250419461,postcode,addr,700019
+3250419461,street,addr,Hazra Road
+3250419561,housenumber,addr,53/1/3
+3250419561,postcode,addr,700019
+3250419561,street,addr,Hazra Road
+3251622461,housenumber,addr,100A
+3251622461,postcode,addr,700029
+3251622461,street,addr,Motilal Nehru Road
+3251622461,amenity,regular,library
+3251622461,internet_access,regular,wlan
+3251622461,name,regular,Gita Bhavan
+3251622461,tourism,regular,hotel
+3320334806,amenity,regular,arts_centre
+3320334806,name,regular,Ramkrishna Mission Institute of Culture
+3321370206,name,regular,Lake Garden
+3321370206,place,regular,neighbourhood
+3363195225,amenity,regular,atm
+3363195225,name,regular,Axis Bank ATM
+3363195225,operator,regular,Axis Bank
+3363195847,amenity,regular,police
+3363195847,name,regular,Behala Thana
+3363195847,operator,regular,Kolkata Police
+3365872348,amenity,regular,cinema
+3365872348,name,regular,Ajanta Cinema
+3406900467,name,regular,Mallick Bazaar
+3406900467,place,regular,neighbourhood
+3406900468,amenity,regular,bank
+3406900468,atm,regular,yes
+3406900468,brand,regular,HDFC
+3406900468,wikidata,brand,Q631047
+3406900468,wikipedia,brand,en:HDFC Bank
+3406900468,building,regular,house
+3406900468,name,regular,HDFC Bank
+3406900468,short_name,regular,HDFC
+3406900468,website,regular,https://www.hdfcbank.com
+3408632522,building,regular,apartments
+3408632522,name,regular,Tivoli Court
+3412216017,amenity,regular,restaurant
+3412216017,cuisine,regular,indian
+3412216017,name,regular,Tero Parbon
+3417603524,railway,regular,crossing
+3418913493,amenity,regular,cafe
+3418913493,name,regular,Wise Owl
+3512180084,city,addr,Kolkata
+3512180084,street,addr,Park Street
+3512180084,amenity,regular,place_of_worship
+3512180084,name,regular,Assembly of Gods Church
+3512180084,religion,regular,christian
+3566105743,amenity,regular,pharmacy
+3566105743,name,regular,Frank Ross Pharmacy
+3828198516,railway,regular,level_crossing
+3868587283,railway,regular,crossing
+3872734362,name,regular,Tollygunge
+3872734362,abbr,name,TLG
+3872734362,bn,name,টালিগঞ্জ
+3872734362,operator,regular,Kolkata Suburban Railway
+3872734362,railway,regular,station
+3872734362,website,regular,https://er.indianrailways.gov.in/
+3992994468,amenity,regular,place_of_worship
+3992994468,name,regular,Jagannath Temple
+3992994468,religion,regular,hindu
+4069785195,name,regular,New Alipore Station
+4069785195,railway,regular,subway_entrance
+4069785199,leisure,regular,park
+4069799625,artwork_type,regular,statue
+4069799625,name,regular,Swami Vivekananda Statue
+4069799625,tourism,regular,artwork
+4069810783,amenity,regular,toilets
+4069884795,name,regular,Rabindra Sarobar Metro
+4069884795,railway,regular,subway_entrance
+4069884796,name,regular,Rabindra Sarobar Metro
+4069884796,railway,regular,subway_entrance
+4069884798,name,regular,Rabindra Sarobar Metro
+4069884798,railway,regular,subway_entrance
+4069884799,name,regular,Rabindra Sarobar Metro
+4069884799,railway,regular,subway_entrance
+4069900830,amenity,regular,place_of_worship
+4069900830,religion,regular,muslim
+4069900831,amenity,regular,place_of_worship
+4069900831,religion,regular,muslim
+4069910289,amenity,regular,atm
+4069910289,name,regular,Union Bank of India
+4069910289,operator,regular,Union Bank of India
+4069910290,amenity,regular,atm
+4069910290,drive_through,regular,no
+4069910290,name,regular,Axis Bank
+4069910290,operator,regular,Axis Bank
+4072202051,amenity,regular,toilets
+4072202052,name,regular,Mother Dairy
+4072202052,operator,regular,Mother Dairy
+4072202052,shop,regular,dairy
+4072202053,amenity,regular,place_of_worship
+4072202053,religion,regular,hindu
+4072202054,amenity,regular,place_of_worship
+4072202054,religion,regular,hindu
+4147768799,amenity,regular,restaurant
+4147768799,cuisine,regular,regional
+4147768799,name,regular,Haji Saheb
+4147768799,takeaway,regular,yes
+4147782996,city,addr,Kolkata
+4147782996,street,addr,Brahma Samaj Road
+4147782996,amenity,regular,fast_food
+4147782996,cuisine,regular,indian
+4147782996,designation,regular,Sweet shop
+4147782996,name,regular,Panna Sweets
+4170884119,highway,regular,bus_stop
+4170884119,name,regular,nonapukur
+4176886089,amenity,regular,cinema
+4176886089,name,regular,INOX Cinema
+4176886189,amenity,regular,restaurant
+4176886189,name,regular,Saima Restaurant
+4178731060,name,regular,Kalighat Metro Station
+4178731060,tourism,regular,information
+4180455089,amenity,regular,bus_station
+4198894036,highway,regular,bus_stop
+4198894036,name,regular,Ekdalia
+4198894037,highway,regular,bus_stop
+4198894037,name,regular,Ekdalia
+4198894038,highway,regular,bus_stop
+4198894038,name,regular,Fern Road
+4198894039,highway,regular,bus_stop
+4198894039,name,regular,Fern Road
+4198894040,highway,regular,bus_stop
+4198894040,name,regular,Gariahat
+4198894041,bus,regular,yes
+4198894041,highway,regular,bus_stop
+4198894041,name,regular,Gariahat
+4198894041,public_transport,regular,platform
+4209577086,name,regular,Park Plaza Kolkata Ballygunge
+4209577086,tourism,regular,hotel
+4209722889,amenity,regular,shelter
+4209722889,internet_access,regular,wlan
+4243771893,amenity,regular,cafe
+4243771893,name,regular,Cafe coffee day
+4243774994,name,regular,Royal Enfield 
+4243774994,shop,regular,bicycle
+4243787191,name,regular,The Kei Suites
+4243787191,tourism,regular,guest_house
+4243787389,name,regular,Kriya yoga
+4243787389,tourism,regular,artwork
+4246143592,name,regular,Airtel
+4246143592,hi,name,移动营业厅
+4246143592,office,regular,telecommunication
+4267858525,highway,regular,bus_stop
+4267858525,name,regular,Post Office
+4267858526,highway,regular,bus_stop
+4267858526,name,regular,Post Office
+4267858527,highway,regular,bus_stop
+4267858527,name,regular,Ballygunge Station
+4267858528,bus,regular,yes
+4267858528,highway,regular,bus_stop
+4267858528,name,regular,Gariahat
+4267858528,public_transport,regular,platform
+4267858529,highway,regular,bus_stop
+4267858529,name,regular,Gariahat
+4267858529,bn,name,গড়িয়াহাট
+4284367432,name,regular,Khidirpur
+4284367432,railway,regular,station
+4340897389,name,regular,The Mobile Store
+4340897389,shop,regular,mobile_phone
+4340897390,craft,regular,confectionery
+4340897390,name,regular,Mouchak
+4340897391,name,regular,Sony Center
+4340897391,shop,regular,electronics
+4356780789,leisure,regular,playground
+4356780789,name,regular,CNMC Playground
+4356780789,opening_hours,regular,24/7
+4356780790,amenity,regular,community_centre
+4356780790,name,regular,beniapukur thana masjid 
+4356781089,housenumber,addr,47
+4356781089,postcode,addr,700014
+4356781089,street,addr,Gora Chand Rd
+4356781089,amenity,regular,police
+4356781089,name,regular,beniapukur police station
+4356781089,phone,regular,03322844770
+4370643951,amenity,regular,cafe
+4370643951,internet_access,regular,wlan
+4370643951,name,regular,Crossroad Cafe
+4370643951,en,name,Crossroad Cafe
+4377409089,city,addr,Kolkata
+4377409089,housenumber,addr,2A
+4377409089,postcode,addr,700020
+4377409089,street,addr,Suburban Hospital Road
+4377409089,amenity,regular,restaurant
+4377409089,internet_access,regular,no
+4377409089,name,regular,MOMO PLAZA
+4377409089,source,regular,Survey
+4393259889,amenity,regular,restaurant
+4393259889,name,regular,Shila
+4393259890,housenumber,addr,2
+4393259890,street,addr,Elgin Lane
+4393259890,amenity,regular,restaurant
+4393259890,cuisine,regular,bengali;indian
+4393259890,name,regular,Kewpie's
+4393259890,en,name,Kewpie's
+4393356789,amenity,regular,fuel
+4393356789,brand,regular,Bharat Petroleum
+4406715689,postcode,addr,700071
+4406715689,name,regular,Gooptu Court
+4406715689,en,name,Gooptu Court
+4406715689,phone,regular,22821432
+4406715689,tourism,regular,hotel
+4441996089,housenumber,addr,13a
+4441996089,street,addr,Dover Road
+4441996089,email,regular,bhammarsinn@gmail.com
+4441996089,internet_access,regular,wlan
+4441996089,name,regular,Bhammar's Inn
+4441996089,en,name,Bhammar's Inn
+4441996089,phone,regular,+913340696136
+4441996089,tourism,regular,hotel
+4443771490,amenity,regular,atm
+4443771490,operator,regular,State Bank of India
+4443890291,city,addr,Kolkata
+4443890291,housenumber,addr,15
+4443890291,postcode,addr,700029
+4443890291,street,addr,Lake Place
+4443890291,email,regular,support@integramicro.co.in
+4443890291,name,regular,Integra Micro Systems (P) ltd.
+4443890291,en,name,Integra Micro Systems (P) ltd.
+4443890291,phone,regular,+91 033 24660363
+4443890291,website,regular,https://www.integramicro.com/
+4524946631,name,regular,Behala
+4524946631,place,regular,suburb
+4556759601,amenity,regular,post_box
+4556759601,ref,regular,DTDC Courier
+4571085992,name,regular,Astor Kolkata
+4571085992,tourism,regular,hotel
+4571086191,name,regular,India tourism
+4571086191,tourism,regular,information
+4579120805,city,addr,Kolkata
+4579120805,housenumber,addr,39/3
+4579120805,postcode,addr,700029
+4579120805,street,addr,Purna Das Road
+4579120805,level,regular,1
+4579120805,name,regular,Agarwal House
+4594497311,amenity,regular,college
+4612607285,city,addr,Kolkata
+4612607285,postcode,addr,700025
+4612607285,amenity,regular,place_of_worship
+4612607285,name,regular,Radha Krishna Mandir
+4612607285,religion,regular,hindu
+4639777284,amenity,regular,bank
+4639777284,wikidata,brand,Q2005310
+4639777284,wikipedia,brand,en:UCO Bank
+4639777284,name,regular,UCO Bank
+4639777284,en,name,UCO Bank
+4639777284,old_name,regular,United Commercial Bank
+4639777284,website,regular,https://www.ucobank.com
+4640146419,leisure,regular,park
+4640146419,name,regular,Chirantani math
+4646548489,amenity,regular,bar
+4646548489,name,regular,The Irish House
+4646548489,hi,name,The Irish House
+4680388490,amenity,regular,restaurant
+4680388490,cuisine,regular,italian
+4680388490,name,regular,Fire and Ice
+4680388490,website,regular,http://www.fireandicepizzeria.com/
+4684651490,housenumber,addr,185/1
+4684651490,postcode,addr,700017
+4684651490,street,addr,AJC Bose Road
+4684651490,amenity,regular,hospital
+4684651490,name,regular,Institute of Neuroscience Kolkata
+4684651490,en,name,Institute of Neuroscience Kolkata
+4684651490,phone,regular,033 4030 9999
+4684651490,website,regular,http://www.neurokolkata.org
+4698601414,city,addr,Kolkata
+4698601414,postcode,addr,700071
+4698601414,street,addr,"Theatre Road, Elgin,"
+4698601414,amenity,regular,restaurant
+4698601414,cuisine,regular,indian
+4698601414,name,regular,Haldiram
+4698601414,opening_hours,regular,9:00 to 21:30
+4698601414,takeaway,regular,yes
+4716438831,amenity,regular,taxi
+4716438831,name,regular,Auto Stand
+4716438832,name,regular,Phuchka Stand
+4716442224,amenity,regular,restaurant
+4716442224,cuisine,regular,North_Indian
+4716442224,drink,regular,beer
+4716442224,name,regular,Mirch Masala
+4718204589,street,addr,Hazra Road
+4718204589,amenity,regular,fast_food
+4718204589,name,regular,Momo on The Move
+4718204589,en,name,Momo on The Move
+4738155124,amenity,regular,embassy
+4738155124,country,regular,MM
+4738155124,name,regular,Consulate of the Republic of the Union of Myanmar
+4738155124,en,name,Consulate of the Republic of the Union of Myanmar
+4738155124,opening_hours,regular,"Mo-Fr 10:00-12:00, 15:00-16:30"
+4738155124,website,regular,http://www.mcgkolkata.org
+4738184821,name,regular,Centre for International Modern Art
+4738184821,en,name,Centre for International Modern Art
+4738184821,opening_hours,regular,Mo-Sa 11:00-19:00
+4738184821,tourism,regular,museum
+4738184822,amenity,regular,school
+4738184822,name,regular,Birla Academy of Art and Culture
+4738184822,en,name,Birla Academy of Art and Culture
+4742846622,name,regular,Harrington Street Arts Centre
+4742846622,en,name,Harrington Street Arts Centre
+4742846622,tourism,regular,attraction
+4742888721,housenumber,addr,26
+4742888721,postcode,addr,700020
+4742888721,street,addr,Lee ROad (OC Ganguly Street)
+4742888721,name,regular,Ahuja Museum for Arts
+4742888721,en,name,Ahuja Museum for Arts
+4742888721,opening_hours,regular,Mo-Su 11:00-19:00
+4742888721,tourism,regular,museum
+4742888721,website,regular,http://www.ahujaptm.com/museum
+4766301525,amenity,regular,restaurant
+4766301525,name,regular,Drive Inn Vegetarian
+4766301525,hi,name,Drive Inn Vegetarian
+4766301526,name,regular,Juice Salon
+4766301526,en,name,Juice Salon
+4766301526,shop,regular,cosmetics
+4825578823,name,regular,FabIndia
+4825578823,en,name,FabIndia
+4825578823,shop,regular,clothes
+4841099427,amenity,regular,post_office
+4841099427,name,regular,Elliot Road Post Office
+4841099427,en,name,Elliot Road Post Office
+4868040723,amenity,regular,fuel
+4868040723,name,regular,Bharat Petroleum
+4868040723,en,name,Bharat Petroleum
+4871343023,amenity,regular,drinking_water
+4871343023,name,regular,Drinking Water Station
+4871343023,en,name,Drinking Water Station
+4871474621,amenity,regular,drinking_water
+4871474621,name,regular,Drinking Water Station
+4871474621,en,name,Drinking Water Station
+4880320721,amenity,regular,drinking_water
+4880320721,name,regular,Drinking Water Station
+4880320721,en,name,Drinking Water Station
+4881365321,amenity,regular,drinking_water
+4881365321,name,regular,Drinking Water Station
+4881365321,en,name,Drinking Water Station
+4891258741,amenity,regular,drinking_water
+4891258741,name,regular,Drinking Water Station
+4891258741,en,name,Drinking Water Station
+4891258958,amenity,regular,drinking_water
+4891258958,name,regular,Drinking Water Station
+4891258958,en,name,Drinking Water Station
+4894003823,name,regular,Weavers Studio
+4894003823,en,name,Weavers Studio
+4894003823,shop,regular,clothes
+4937969021,amenity,regular,restaurant
+4937969021,name,regular,Arsalan
+4937969021,en,name,Arsalan
+4974790923,housenumber,addr,18/1
+4974790923,street,addr,Hindustan Road
+4974790923,amenity,regular,restaurant
+4974790923,name,regular,Bhojohori Manna 6
+4974790923,en,name,Bhojohori Manna 6
+4974851122,housenumber,addr,31A
+4974851122,street,addr,Shyama Prasad Mukherjee Road
+4974851122,name,regular,Seagull
+4974851122,en,name,Seagull
+4974851122,shop,regular,books
+4974851122,website,regular,http://www.seagullindia.com
+4974855521,housenumber,addr,10
+4974855521,street,addr,Middleton Street
+4974855521,name,regular,Earthcare Bookstore
+4974855521,en,name,Earthcare Bookstore
+4974855521,shop,regular,books
+4974855521,website,regular,http://www.earthcarebooks.com
+4974928524,street,addr,"901A, 9th Floor, Fort Knox, 6, Camac, St. Elgin, Elgin"
+4974928524,amenity,regular,bar
+4974928524,name,regular,Monkey Bar
+4974928524,en,name,Monkey Bar
+4974997722,name,regular,Pragjyotika
+4974997722,en,name,Pragjyotika
+4974997722,shop,regular,furniture
+5073437018,amenity,regular,restaurant
+5073437018,cuisine,regular,chinese
+5073437018,name,regular,Tak Heng
+5136807023,street,addr,Cornfiled Road
+5136807023,name,regular,Airbnb (Ground Floor 8/10C Cornfield Road)
+5136807023,tourism,regular,hotel
+5150924622,amenity,regular,restaurant
+5150924622,name,regular,Gangurum's
+5151716324,amenity,regular,restaurant
+5151716324,name,regular,Jyoti Vihar
+5151718328,amenity,regular,restaurant
+5151718328,name,regular,6 Ballygunge Place
+5151718336,amenity,regular,restaurant
+5151718336,name,regular,Ammini
+5151718435,amenity,regular,restaurant
+5151718435,name,regular,Bohemian
+5153778328,amenity,regular,restaurant
+5153778328,name,regular,Tasty Corner
+5210514243,amenity,regular,bank
+5210514243,atm,regular,yes
+5210514243,name,regular,HDFC Life
+5210514243,bn,name,এইচডিএফসি লাইফ
+5210514244,amenity,regular,bank
+5210514244,atm,regular,yes
+5210514244,name,regular,Indian Bank
+5236272342,building,regular,yes
+5236272342,name,regular,Ahindra Mancha
+5241916893,amenity,regular,cinema
+5241916893,name,regular,Cinepolis
+5242278927,name,regular,Shri Shikshayatan
+5242278927,office,regular,educational_institution
+5242397925,description,regular,Asian College of Teachers (ACT) is the leading teachers training institution in Asia that grooms and develops teachers into future global educators. 
+5242397925,name,regular,Asian College of Teachers
+5242397925,en,name,Asian College of Teachers
+5242857321,name,regular,Kolkata Homestay and B&B
+5242857321,tourism,regular,guest_house
+5271335721,amenity,regular,cinema
+5271335721,name,regular,Inox quest cinema
+5271335722,name,regular,Kathleen Confectioner's
+5271335722,shop,regular,confectionery
+5271596821,name,regular,Gallery Gold
+5271596821,tourism,regular,artwork
+5273034721,amenity,regular,toilets
+5273034921,amenity,regular,toilets
+5283496021,name,regular,Harsh Kitchen & Interior
+5283496021,shop,regular,electronics
+5303024722,amenity,regular,restaurant
+5303024722,cuisine,regular,indian;vegetarian
+5303024722,name,regular,Balwant Singh's Eating House
+5303024823,amenity,regular,fast_food
+5303024823,cuisine,regular,indian;vegetarian
+5303024823,name,regular,Veg restaurant
+5303976321,name,regular,Little Green Apartment Ballygunge
+5303976321,tourism,regular,guest_house
+5304709123,housenumber,addr,23A
+5304709123,postcode,addr,700019
+5304709123,street,addr,Ashutosh Chowdary Avenue
+5304709123,name,regular,Tirumani Building
+5304709123,tourism,regular,apartment
+5309805521,name,regular,Bengal Guest House
+5309805521,tourism,regular,guest_house
+5336091222,amenity,regular,toilets
+5338247022,amenity,regular,atm
+5338247022,opening_hours,regular,24/7
+5338247022,operator,regular,HSBC
+5338962221,name,regular,Bengali Sweets
+5338962221,shop,regular,bakery
+5339103821,amenity,regular,restaurant
+5339103821,cuisine,regular,burger;sandwich;italian;italian_pizza
+5339103821,name,regular,My Big Fat Belly
+5339103822,name,regular,Homeland Mall
+5339103822,shop,regular,department_store
+5358863021,postcode,addr,700151
+5358863021,street,addr,Diamond Harbour Road
+5358863021,amenity,regular,hospital
+5358863021,name,regular,BEHALA BALANANDA BRAHMACHARI HOSPITAL AND RESEARCH CENTRE
+5392863822,amenity,regular,fast_food
+5392863822,name,regular,Street food area
+5400739024,city,addr,Kolkata
+5400739024,country,addr,IN
+5400739024,housenumber,addr,88/4
+5400739024,postcode,addr,700017
+5400739024,street,addr,Fazrul Haque Sarani
+5400739024,bagpacker,regular,yes
+5400739024,email,regular,hotelbengal@yahoo.com
+5400739024,guest_house,regular,bed_and_breakfast
+5400739024,hostel,regular,yes
+5400739024,internet_access,regular,wlan
+5400739024,fee,internet_access,yes
+5400739024,name,regular,Bengal Guest House
+5400739024,operator,regular,Hotel Bengal
+5400739024,rooms,regular,25
+5400739024,smoking,regular,separated
+5400739024,tourism,regular,hotel
+5414029822,amenity,regular,restaurant
+5414029822,name,regular,The South Indian
+5414040822,amenity,regular,restaurant
+5414040822,name,regular,Nafeel
+5421538365,name,regular,Rabindra Sarobar
+5421538365,public_transport,regular,station
+5421538365,railway,regular,station
+5421538365,station,regular,subway
+5421538365,subway,regular,yes
+5421539684,name,regular,Kalighat
+5421539684,public_transport,regular,station
+5421539684,railway,regular,station
+5421539684,station,regular,subway
+5421539684,subway,regular,yes
+5421540159,name,regular,Jatin Das Park
+5421540159,public_transport,regular,station
+5421540159,railway,regular,station
+5421540159,station,regular,subway
+5421540159,subway,regular,yes
+5421541284,name,regular,Netaji Bhavan
+5421541284,public_transport,regular,station
+5421541284,railway,regular,station
+5421541284,station,regular,subway
+5421541284,subway,regular,yes
+5421542551,name,regular,Rabindra Sadan
+5421542551,public_transport,regular,station
+5421542551,railway,regular,station
+5421542551,station,regular,subway
+5421542551,subway,regular,yes
+5421543288,name,regular,Maidan
+5421543288,public_transport,regular,station
+5421543288,railway,regular,station
+5421543288,station,regular,subway
+5421543288,subway,regular,yes
+5426193529,highway,regular,crossing
+5428852352,highway,regular,crossing
+5428973984,city,addr,Kolkata
+5428973984,housenumber,addr,88/4
+5428973984,postcode,addr,700017
+5428973984,street,addr,Fazrul Haque Sarani
+5428973984,description,regular,Bengal Hotel located near Park Circus 7point. A family owned hotel Established in 1995 and has been running successfully ever since we take pride in serving our guests and offering them a economical price for stay. Safe and secured place for you and your 
+5428973984,email,regular,hotelbengal@yahoo.com
+5428973984,internet_access,regular,wlan
+5428973984,name,regular,Hotel Bengal
+5428973984,note,regular,"Hotel, Bed and Breakfast, Guesthouse, economical and within your budget. Safe reliable and insured a government registered and licensed hotel."
+5428973984,cash,payment,yes
+5428973984,credit_cards,payment,yes
+5428973984,debit_cards,payment,yes
+5428973984,diners_club,payment,yes
+5428973984,mastercard,payment,yes
+5428973984,visa,payment,yes
+5428973984,phone,regular,+91 9831261453
+5428973984,rooms,regular,25
+5428973984,smoking,regular,separated
+5428973984,stars,regular,3
+5428973984,start_date,regular,21/02/2018
+5428973984,tourism,regular,hotel
+5428973984,website,regular,http://www.hotelbengal.com/
+5439036921,name,regular,"Susmita Bhattacharya Chatterjee, Councillor for Ward 63"
+5439036921,office,regular,government
+5448275025,amenity,regular,embassy
+5448275025,ru,name,Генеральное консульство России
+5450195823,street,addr,Raja Subosh Chandra Mallik Road
+5450195823,amenity,regular,restaurant
+5450195823,name,regular,Mission Vegetarian Cafe
+5450195823,es,name,Café Misión Vegetariana
+5450195823,opening_hours,regular,Mo-Su 09:00-21:00
+5450195823,phone,regular,+09-03365001122
+5470446021,housenumber,addr,23A
+5470446021,postcode,addr,700019
+5470446021,street,addr,Ashutosh Chowdary Avenue
+5470446021,name,regular,Tirumani
+5470446021,tourism,regular,apartment
+5495975671,city,addr,Kolkata
+5495975671,housenumber,addr,4
+5495975671,postcode,addr,700020
+5495975671,street,addr,Lee ROad (OC Ganguly Street)
+5495975671,amenity,regular,embassy
+5495975671,email,contact,kolkata@honorary.mzv.cz
+5495975671,phone,contact,+91 033 2290 7406
+5495975671,country,regular,CZ
+5495975671,diplomatic,regular,honorary_consulate
+5495975671,name,regular,Honorary Consulate of the Czech Republic
+5495975671,cs,name,Honorární konzulát České republiky
+5495975671,opening_hours,regular,"Mo, Th 10:30-12:30"
+5495975671,website,regular,https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/indie_honorarni_konzulat_kalkata.html
+5503285626,name,regular,Juicy Fresh
+5503285626,shop,regular,beverages
+5512023021,amenity,regular,atm
+5512023021,opening_hours,regular,24/7
+5512023021,operator,regular,Allahabad Bank
+5574213623,street,addr,Beltola Road
+5574213623,amenity,regular,doctors
+5574213623,name,regular,Paramount Clinic
+5574214722,amenity,regular,hospital
+5574214722,name,regular,Paramount Nursing Home
+5587869423,name,regular,Ballygunge Station Ticket Counter
+5587869423,opening_hours,regular,24/7
+5587869423,shop,regular,ticket
+5587869423,wheelchair,regular,yes
+5595874221,housenumber,addr,48/44
+5595874221,street,addr,swiss park
+5595874221,name,regular,Bodhi tree
+5595874221,tourism,regular,hotel
+5658504222,name,regular,Sikkim tourism house
+5658504222,tourism,regular,information
+5729637830,amenity,regular,embassy
+5729637830,country,regular,MM
+5729637830,name,regular,Myanmar Consulate General
+5729637830,website,regular,www.mcgkolkata.org
+5745581821,street,addr,Camac Street
+5745581821,amenity,regular,restaurant
+5745581821,cuisine,regular,indian
+5745581821,name,regular,Dawat
+5745581821,phone,regular,22523271
+5768054677,railway,regular,level_crossing
+5768054678,railway,regular,crossing
+5768054679,IR:zone,regular,ER
+5768054679,name,regular,Dhakuria
+5768054679,bn,name,ঢাকুরিয়া
+5768054679,operator,regular,IR
+5768054679,railway,regular,station
+5768054679,ref,regular,DHK
+5768054688,name,regular,Jadavpur
+5768054688,bn,name,যাদবপুর
+5768054688,railway,regular,station
+5777570444,railway,regular,crossing
+5809580153,amenity,regular,college
+5809580153,name,regular,Academy of finr Arts
+5818601953,street,addr,Middleton Street
+5818601953,name,regular,Sikkin House
+5818601953,shop,regular,travel_agency
+5996138986,housenumber,addr,375
+5996138986,postcode,addr,700068
+5996138986,street,addr,Prince Anwar Shah Road
+5996138986,amenity,regular,school
+5996138986,name,regular,South City International School
+5996138986,website,regular,http://scis.co.in
+6018345769,highway,regular,traffic_signals
+6018345769,traffic_signals,regular,signal
+6084044839,highway,regular,motorway_junction
+6084085594,highway,regular,crossing
+6084085595,highway,regular,crossing
+6084085598,highway,regular,crossing
+6084316701,highway,regular,crossing
+6084316702,highway,regular,crossing
+6084316703,highway,regular,crossing
+6084316704,highway,regular,traffic_signals
+6084316705,highway,regular,traffic_signals
+6084316706,highway,regular,crossing
+6084316721,highway,regular,crossing
+6125952789,housenumber,addr,31
+6125952789,postcode,addr,700026
+6125952789,street,addr,Kabir Road
+6125952789,name,regular,Aloha guesthouse
+6125952789,phone,regular,+916291307360
+6125952789,tourism,regular,guest_house
+6126110985,amenity,regular,restaurant
+6126110985,cuisine,regular,indian;chinese
+6126110985,name,regular,Zaika
+6134509064,name,regular,Maidan
+6134509064,place,regular,suburb
+6134509064,wikidata,regular,Q987578
+6135358004,amenity,regular,bank
+6135358004,brand,regular,DCB Bank
+6135361871,amenity,regular,fuel
+6135361871,brand,regular,Hindustan Petroleum
+6135361872,amenity,regular,fuel
+6135361872,brand,regular,Indian Oil
+6135361873,bench,regular,yes
+6135361873,bus,regular,yes
+6135361873,highway,regular,bus_stop
+6135361873,name,regular,Camac Street;ACJ Boss Road Crossing
+6135361873,public_transport,regular,platform
+6135361873,shelter,regular,yes
+6135361876,amenity,regular,bank
+6135361876,branch,regular,Ballygunge Park Road
+6135361876,hi,branch,बालीगंज पार्क रोड
+6135361876,brand,regular,Indian Overseas Bank
+6135361877,level,regular,0
+6135361877,shop,regular,confectionery
+6135362107,amenity,regular,fast_food
+6135362107,level,regular,1
+6135362107,name,regular,Haldiram's
+6135362108,amenity,regular,bank
+6135362108,brand,regular,Kotak Mahindra Bank
+6135362904,brand,regular,Yamaha
+6135362904,name,regular,Yamaha Music Square
+6135362904,shop,regular,musical_instrument
+6135362905,brand,regular,Bajaj
+6135362905,name,regular,OSL Bajaj
+6135362905,shop,regular,motorcycle
+6135362906,amenity,regular,fuel
+6135362906,brand,regular,Indian Oil
+6135362917,amenity,regular,restaurant
+6135362917,level,regular,2
+6135362917,name,regular,Teekha
+6135363268,bench,regular,yes
+6135363268,bus,regular,yes
+6135363268,highway,regular,bus_stop
+6135363268,public_transport,regular,platform
+6135363268,shelter,regular,yes
+6135363494,amenity,regular,fuel
+6135363494,brand,regular,Bharat Petroleum
+6135363542,name,regular,Calcutta Ice Skating Rink
+6135363542,sport,regular,ice_skating
+6135363543,amenity,regular,atm
+6135363543,brand,regular,ICICI Bank
+6135363543,opening_hours,regular,24/7
+6135363544,amenity,regular,atm
+6135363544,brand,regular,Kotak Mahindra Bank
+6135363686,amenity,regular,atm
+6135363686,brand,regular,State Bank of India
+6135363686,short,brand,SBI
+6135363702,brand,regular,Honda
+6135363702,name,regular,Eastern Honda
+6135363702,shop,regular,car
+6135363703,bench,regular,yes
+6135363703,bus,regular,yes
+6135363703,highway,regular,bus_stop
+6135363703,public_transport,regular,platform
+6135363703,shelter,regular,yes
+6135364025,amenity,regular,atm
+6135364025,brand,regular,Kotak Mahindra Bank
+6135364025,opening_hours,regular,24/7
+6135364026,amenity,regular,bank
+6135364026,branch,regular,Park Circus
+6135364026,brand,regular,Bank of India
+6135364026,short,brand,BOI
+6135364027,amenity,regular,fuel
+6135364027,brand,regular,Hindustan Petroleum
+6135364285,brand,regular,Royal Enfield
+6135364285,clothes,motorcycle,yes
+6135364285,sales,motorcycle,yes
+6135364285,shop,regular,motorcycle
+6135364481,amenity,regular,cafe
+6135364481,name,regular,Café Coffee Day
+6135364806,amenity,regular,toilets
+6138456632,name,regular,Sabhyata
+6138456632,shop,regular,clothes
+6138457982,name,regular,Jockey
+6138457982,shop,regular,clothes
+6138457983,name,regular,Crocs
+6138457983,shop,regular,shoes
+6138457984,name,regular,Westside
+6138457984,shop,regular,clothes
+6138458219,name,regular,Blackberrys
+6138458219,shop,regular,clothes
+6138458220,name,regular,Mochi
+6138458220,shop,regular,shoes
+6138458221,name,regular,Bata
+6138458221,shop,regular,shoes
+6138458222,housenumber,addr,4/1
+6138458222,postcode,addr,700071
+6138458222,street,addr,Ho Chi Minh Sarani
+6138458222,name,regular,Calcutta Digital
+6138458222,opening_hours,regular,"Mo-Fr 09:00-19:00, 09:00-18:00; Sa 10:00-17:00"
+6138458222,phone,regular,+91-90077-11961
+6138458222,shop,regular,copyshop
+6138458223,amenity,regular,cafe
+6138458223,name,regular,Spices and Sauces
+6138458223,phone,regular,+91-33-2440-1314;+91-33-2440-8787;+91-98307-58920;+91-98304-04196
+6138458225,amenity,regular,cafe
+6138458225,name,regular,Café Coffee Day
+6138458333,clothes,regular,women
+6138458333,name,regular,W
+6138458333,shop,regular,clothes
+6138458333,website,regular,https://www.wforwoman.com/
+6138458334,housenumber,addr,8
+6138458334,postcode,addr,700071
+6138458334,street,addr,Ho Chi Minh Sarani
+6138458334,name,regular,Colors
+6138458334,operator,regular,Apsara Beauty Care Private Limited
+6138458334,phone,regular,+91-2282-6744-6317
+6138458334,shop,regular,beauty
+6138458335,building,regular,office
+6138458335,diplomatic,regular,consulate
+6138458335,name,regular,Consulate General of the United States of America
+6138458335,office,regular,diplomatic
+6138458337,amenity,regular,fast_food
+6138458337,cuisine,regular,pizza
+6138458337,level,regular,1
+6138458337,name,regular,Dominos
+6138458385,amenity,regular,fast_food
+6138458385,indoor_seating,regular,yes
+6138458385,name,regular,Mr. Veggie
+6141500109,name,regular,Gatha
+6141500109,hi,name,गाथा
+6141500109,shop,regular,clothes
+6141500110,name,regular,The Senator
+6141500110,tourism,regular,hotel
+6141500246,bench,regular,yes
+6141500246,bus,regular,yes
+6141500246,highway,regular,bus_stop
+6141500246,name,regular,AC Bose Road
+6141500246,public_transport,regular,platform
+6141500246,shelter,regular,yes
+6141500377,amenity,regular,drinking_water
+6141500380,amenity,regular,coworking_space
+6141500380,name,regular,Awfis
+6141500381,amenity,regular,pub
+6141500381,name,regular,Pls Dnt Tlk
+6141500382,name,regular,Javed Habib
+6141500382,shop,regular,beauty
+6141500383,bench,regular,yes
+6141500383,bus,regular,yes
+6141500383,highway,regular,bus_stop
+6141500383,name,regular,"AJC Bose Road, Minto Park"
+6141500383,public_transport,regular,platform
+6141500383,shelter,regular,yes
+6141500453,amenity,regular,theatre
+6141500453,name,regular,Satyajit Ray Auditorium
+6141540245,access,regular,permissive
+6141540245,barrier,regular,gate
+6141553299,highway,regular,traffic_signals
+6143230209,amenity,regular,atm
+6143230209,brand,regular,ICICI Bank
+6143230209,opening_hours,regular,24/7
+6143232246,amenity,regular,bank
+6143232246,branch,regular,Middleton Street
+6143232246,brand,regular,ICICI Bank
+6143232247,city,addr,Kolkata
+6143232247,housenumber,addr,41
+6143232247,postcode,addr,700071
+6143232247,street,addr,Chowringhee Road
+6143232247,amenity,regular,fast_food
+6143232247,indoor_seating,regular,yes
+6143232247,name,regular,Russell Punjabi Dhaba
+6143232248,city,addr,Kolkata
+6143232248,housenumber,addr,77/1A
+6143232248,street,addr,Park Street
+6143232248,amenity,regular,ice_cream
+6143232248,indoor_seating,regular,yes
+6143232248,level,regular,0
+6143232248,name,regular,Naturals
+6143232248,opening_hours,regular,Mo-Su 11:00-00:00
+6143232249,bench,regular,yes
+6143232249,bus,regular,yes
+6143232249,highway,regular,bus_stop
+6143232249,public_transport,regular,platform
+6143232249,shelter,regular,yes
+6143232537,amenity,regular,fuel
+6143232537,brand,regular,Bharat Petroleum
+6144980692,city,addr,Kolkata
+6144980692,housenumber,addr,77/1
+6144980692,postcode,addr,700016
+6144980692,street,addr,Park Street
+6144980692,name,regular,Rahees Hair Studio
+6144980692,phone,regular,+91-33-4001-3637
+6144980692,shop,regular,beauty
+6148907411,highway,regular,traffic_signals
+6148907412,highway,regular,traffic_signals
+6148907413,highway,regular,traffic_signals
+6148907414,crossing_ref,regular,zebra
+6148907414,highway,regular,crossing
+6148907415,crossing_ref,regular,zebra
+6148907415,highway,regular,crossing
+6148907416,crossing_ref,regular,zebra
+6148907416,highway,regular,crossing
+6148907417,crossing_ref,regular,zebra
+6148907417,highway,regular,crossing
+6148907418,crossing_ref,regular,zebra
+6148907418,highway,regular,crossing
+6148907419,crossing_ref,regular,zebra
+6148907419,highway,regular,crossing
+6148907420,crossing_ref,regular,zebra
+6148907420,highway,regular,crossing
+6148907421,crossing_ref,regular,zebra
+6148907421,highway,regular,crossing
+6148907422,crossing_ref,regular,zebra
+6148907422,highway,regular,crossing
+6148907423,crossing_ref,regular,zebra
+6148907423,highway,regular,crossing
+6148907424,crossing_ref,regular,zebra
+6148907424,highway,regular,crossing
+6148907425,highway,regular,traffic_signals
+6148907426,highway,regular,traffic_signals
+6148907427,highway,regular,traffic_signals
+6148907428,highway,regular,traffic_signals
+6150923994,highway,regular,traffic_signals
+6150923995,highway,regular,traffic_signals
+6150923996,highway,regular,traffic_signals
+6150923997,highway,regular,traffic_signals
+6150923998,highway,regular,traffic_signals
+6150923999,highway,regular,traffic_signals
+6150924000,highway,regular,traffic_signals
+6152948073,ford,regular,yes
+6173705438,entrance,regular,main
+6173705456,entrance,regular,main
+6173705460,entrance,regular,yes
+6173705465,entrance,regular,yes
+6173705466,craft,regular,tailor
+6173705466,repair,regular,only
+6173705467,entrance,regular,yes
+6173705471,entrance,regular,main
+6175560481,railway,regular,subway_entrance
+6175564189,railway,regular,subway_entrance
+6186215071,name,regular,Remount Road
+6186215071,railway,regular,station
+6186215510,IR:zone,regular,ER
+6186215510,is_in,regular,Kolkata
+6186215510,name,regular,Majherhat
+6186215510,operator,regular,IR
+6186215510,railway,regular,station
+6186215510,ref,regular,MJT
+6186215510,wikidata,regular,Q20718005
+6186215510,wikipedia,regular,en:Majerhat railway station
+6257358519,housenumber,addr,13
+6257358519,street,addr,Russa Road south
+6257358519,club,regular,sport
+6257358519,description,regular,A club for all the members of locality organising various social events
+6257358519,name,regular,Tollygunge place club
+6257368173,description,regular,park for children
+6257368173,leisure,regular,park
+6257368173,name,regular,KALABAGAN PARK
+6257370365,leisure,regular,park
+6257370365,name,regular,TOLLYGUNGE CEMETERY
+6257376972,description,regular,park for children
+6257376972,leisure,regular,park
+6257376972,name,regular,Guru Govindan Kutty Uddyan
+6257381319,name,regular,Shiv Durga Temple
+6257381319,shop,regular,religion
+6259634612,buoy_lateral:category,seamark,port
+6259634612,buoy_lateral:colour,seamark,red
+6259634612,buoy_lateral:shape,seamark,can
+6259634612,buoy_lateral:system,seamark,iala-a
+6259634612,conspicuity,seamark,conspicuous
+6259634612,construction,seamark,metal
+6259634612,information,seamark,Lower Dock Buoy
+6259634612,name,seamark,L D
+6259634612,source,seamark,Google Earth
+6259634612,status,seamark,permanent
+6259634612,type,seamark,buoy_lateral
+6267299785,amenity,regular,bus_station
+6267299785,ru,name,3b
+6299151685,amenity,regular,restaurant
+6299151685,name,regular,Mystic Yoga Cafe & Studio
+6299151685,website,regular,http://mysticyoga.in
+6299181585,amenity,regular,cafe
+6299181585,cuisine,regular,international
+6299181585,name,regular,Mystic Yoga Cafe
+6299181585,website,regular,http://www.mysticyoga.in
+6315699286,name,regular,South city Galaxy
+6315699286,tourism,regular,apartment
+6332341448,ford,regular,yes
+6332341449,ford,regular,yes
+6332341450,ford,regular,yes
+6332341451,ford,regular,yes
+6332341452,ford,regular,yes
+6357619086,housenumber,addr,3C
+6357619086,street,addr,Albert Road
+6357619086,amenity,regular,restaurant
+6357619086,cuisine,regular,indian
+6357619086,name,regular,Govinda's
+6357619086,opening_hours,regular,Mo-Su 09:00-22:00
+6357619086,website,regular,http://www.iskconkolkata.com
+6362036055,city,addr,Kolkata
+6362036055,housenumber,addr,8
+6362036055,postcode,addr,700071
+6362036055,street,addr,Ho Chi Minh Sarani
+6362036055,name,regular,Fortuna Impex Pvt Ltd
+6371565896,housenumber,addr,75
+6371565896,street,addr,Hazra Road
+6371565896,internet_access,regular,wlan
+6371565896,name,regular,Little Green Stay Hotel
+6371565896,tourism,regular,hotel
+6375289885,postcode,addr,700071
+6375289885,email,regular,victomem@gmail.com
+6375289885,name,regular,Victoria Memorial Hall
+6375289885,opening_hours,regular,Tu-Su 09:00-18:00
+6375289885,phone,regular,913322231890
+6375289885,tourism,regular,attraction
+6375289885,website,regular,http://victoriamemorial-cal.org
+6378369685,highway,regular,bus_stop
+6378369685,name,regular,ODRC Bus Stop
+6378406685,historic,regular,memorial
+6378406685,name,regular,Arobindo Bhaban
+6378668785,highway,regular,bus_stop
+6378668785,name,regular,ODRC Bus Stop
+6384815185,postcode,addr,700071
+6384815185,street,addr,Acharya Jagadish Chandra Bose Road
+6384815185,amenity,regular,restaurant
+6384815185,name,regular,Haldiram Veg Restaurant
+6384815185,opening_hours,regular,Mo-Su 09:00-23:00
+6389311616,railway,regular,crossing
+6389311617,railway,regular,level_crossing
+6389311618,railway,regular,level_crossing
+6389311619,railway,regular,level_crossing
+6389311620,railway,regular,level_crossing
+6389311621,railway,regular,level_crossing
+6389311622,railway,regular,level_crossing
+6389311623,railway,regular,level_crossing
+6395309385,housenumber,addr,2
+6395309385,postcode,addr,700020
+6395309385,street,addr,Justice Chandra Madhab Road
+6395309385,name,regular,South City Galaxy
+6395309385,tourism,regular,apartment
+6395309585,postcode,addr,700019
+6395309585,street,addr,Ballygunge Gardens
+6395309585,amenity,regular,place_of_worship
+6395309585,name,regular,Gariahat Sarbojanin Durgotsab
+6395400106,amenity,regular,fast_food
+6395400106,name,regular,"Hot Chips, Wood Street"
+6395667421,amenity,regular,atm
+6395667421,operator,regular,CANARA BANK
+6397707885,amenity,regular,post_office
+6397707885,name,regular,Little Russell Street Post Office
+6399813087,amenity,regular,atm
+6399813087,operator,regular,SBI ATM
+4974928524,postcode,addr,700017

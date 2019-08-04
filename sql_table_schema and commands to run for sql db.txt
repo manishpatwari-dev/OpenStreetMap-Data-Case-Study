@@ -1,0 +1,65 @@
+open cmd
+cd to the location of sqlite3
+type 
+
+
+
+
+sqlite3 data_kolkata.db
+CREATE TABLE nodes (
+    changeset INTEGER,
+	id INTEGER PRIMARY KEY NOT NULL,
+    lat REAL,
+    lon REAL,
+    timestamp TEXT,
+	uid INTEGER,
+	user TEXT,
+    version INTEGER
+);
+
+CREATE TABLE nodes_tags (
+    id INTEGER,
+    key TEXT,
+	type TEXT,
+    value TEXT,
+    FOREIGN KEY (id) REFERENCES nodes(id)
+);
+
+CREATE TABLE ways (
+    changeset INTEGER,
+    id INTEGER PRIMARY KEY NOT NULL,
+    timestamp TEXT,
+    uid INTEGER,
+    user TEXT,
+    version TEXT
+);
+
+CREATE TABLE ways_tags (
+    id INTEGER NOT NULL,
+    key TEXT NOT NULL,
+    type TEXT,
+    value TEXT NOT NULL,
+    FOREIGN KEY (id) REFERENCES ways(id)
+);
+
+CREATE TABLE ways_nodes (
+    id INTEGER NOT NULL,
+    node_id INTEGER NOT NULL,
+    position INTEGER NOT NULL,
+    FOREIGN KEY (id) REFERENCES ways(id),
+    FOREIGN KEY (node_id) REFERENCES nodes(id)
+);
+
+.mode csv
+.import nodes.csv nodes
+.import ways.csv ways
+
+.import nodes_tags.csv nodes_tags
+DELETE FROM nodes_tags WHERE id== 'id';
+
+.import ways_tags.csv ways_tags
+DELETE FROM ways_tags WHERE id== 'id';
+
+.import ways_nodes.csv ways_nodes
+DELETE FROM ways_nodes WHERE id== 'id';
+
